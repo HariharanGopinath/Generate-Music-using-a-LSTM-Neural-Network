@@ -28,6 +28,19 @@ The picture of the LSTM can be seen below
 
 
 # RESULTS
-<img width="501" alt="accuracy_100epo_midisongs" src="https://user-images.githubusercontent.com/71879067/139288982-d970ef22-ee4a-46cc-9c88-25a7f0a83fec.png">
-<img width="494" alt="loss_100epo_midisongs" src="https://user-images.githubusercontent.com/71879067/139289013-70018be2-4cd0-4fde-9240-6859f6381034.png">
-
+We have trained the networks for 40 and 100 epochs
+respectively and we can compare the output of both the
+models performance. To see the evaluation of a model, we
+can compare the training and validation accuracy as well as
+the loss of the both the model and to see how the models
+has performed in the training. From the graph plotted which
+is mentioned, we can see that both the training and
+the validation accuracy has a significant increase over the 20
+epochs and after that, the validation accuracy have remained
+constant But the training accuracy have increased to more
+than 90 percentage after the 50 epochs and we have achieved
+maximum of 97.44% of training accuracy. When it comes to
+the training and the validation loss, training loss have showed a
+significant decrease and remained constant without increasing
+over the course of the 100 epochs but the validation loss have
+increases little bit when we compare to the training loss.
