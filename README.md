@@ -25,6 +25,9 @@ given time.
 # MODEL
 The picture of the LSTM can be seen below
 
+![LSTM](https://user-images.githubusercontent.com/71879067/139289864-51dc56c1-aa4d-4869-bb9a-3af39dcbcaec.JPG)
+
+
 
 
 # RESULTS
