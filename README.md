@@ -25,8 +25,8 @@ given time.
 # MODEL
 The picture of the LSTM can be seen below
 
-![LSTM](https://user-images.githubusercontent.com/71879067/139289864-51dc56c1-aa4d-4869-bb9a-3af39dcbcaec.JPG)
 
+![LSTM structure epochs 100](https://user-images.githubusercontent.com/71879067/139290076-6bdb4598-b069-4e91-8e7a-af1a660f4bb2.JPG)
 
 
 
