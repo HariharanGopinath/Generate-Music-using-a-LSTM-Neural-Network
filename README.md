@@ -22,7 +22,7 @@ given time.
 ![Project_poster group 110-1](https://user-images.githubusercontent.com/71879067/139288699-51e0a4e1-f610-4983-8a3b-ff56d1569f00.jpg)
 
 
-# MODEL
+# Model
 The picture of the LSTM can be seen below
 
 
@@ -30,7 +30,7 @@ The picture of the LSTM can be seen below
 
 
 
-# RESULTS
+# Results
 We have trained the networks for 40 and 100 epochs
 respectively and we can compare the output of both the
 models performance. To see the evaluation of a model, we
